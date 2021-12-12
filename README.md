@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Atomic Design Starter Kit
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project replicates [www.discoveryplus.com](https://www.discoveryplus.com) using `atomic design principles & methodology`.
+
+This project was build on principles of `atomic design principles & methodology` which is best described [here](https://xd.adobe.com/ideas/process/ui-design/atomic-design-principles-methodology-101/) by adobe engineers.
+
+You can find this project deployed [here](https://eloquent-ardinghelli-d59ae4.netlify.app/).
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and components are built around [`storybook`](https://storybook.js.org/).
+You can run `yarn storybook` to view storybook of components on [http://localhost:6006/](http://localhost:6006/).
 
 ## Available Scripts
 
