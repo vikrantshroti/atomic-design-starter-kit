@@ -1,0 +1,1 @@
+{"ast":null,"code":"export{default}from\"./CategoryList\";","map":{"version":3,"sources":["D:/Work/projects/atomic-design-starter-kit/src/components/organisms/CategoryList/index.js"],"names":["default"],"mappings":"AAAA,OAASA,OAAT","sourcesContent":["export { default } from \"./CategoryList\";\n"]},"metadata":{},"sourceType":"module"}
