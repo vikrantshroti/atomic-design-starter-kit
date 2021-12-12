@@ -1,1 +1,0 @@
-{"ast":null,"code":"export{default}from\"./CardComponent\";","map":{"version":3,"sources":["D:/Work/projects/atomic-design-starter-kit/src/components/molecules/CardComponent/index.js"],"names":["default"],"mappings":"AAAA,OAASA,OAAT","sourcesContent":["export { default } from \"./CardComponent\";\n"]},"metadata":{},"sourceType":"module"}

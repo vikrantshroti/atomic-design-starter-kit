@@ -1,1 +1,0 @@
-{"ast":null,"code":"export{default}from\"./SearchIcon\";","map":{"version":3,"sources":["D:/Work/projects/atomic-design-starter-kit/src/components/atoms/SearchIcon/index.js"],"names":["default"],"mappings":"AAAA,OAASA,OAAT","sourcesContent":["export { default } from \"./SearchIcon\";\n"]},"metadata":{},"sourceType":"module"}

@@ -1,1 +1,0 @@
-{"ast":null,"code":"export{default}from\"./PlayIcon\";","map":{"version":3,"sources":["D:/Work/projects/atomic-design-starter-kit/src/components/atoms/PlayIcon/index.js"],"names":["default"],"mappings":"AAAA,OAASA,OAAT","sourcesContent":["export { default } from \"./PlayIcon\";\n"]},"metadata":{},"sourceType":"module"}
